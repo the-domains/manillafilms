@@ -1,0 +1,29 @@
+name: manillafilms
+favicon: null
+layout_spectrum: 0.9207403620239347
+typography_spectrum: 0.8994006782304496
+title: MANILLAFILMS
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.41374126938171685
+  lightness: 0.7417664178647101
+  saturation: 0.05120202014222741
+  rhythmicContrast: 0.21814407408237457
+purpose: []
